@@ -1,2 +1,2 @@
 # MOT-demo
-multi-object-tracking-demo
+multi-object-tracking-slim-yolo
