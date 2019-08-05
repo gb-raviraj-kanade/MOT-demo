@@ -3,5 +3,5 @@ train = VisDrone2019/person/train.txt
 valid = VisDrone2019/person/val.txt
 labels = VisDrone2019/person/labels.txt
 names = VisDrone2019/person/labels.txt
-backup = backup_person/
+backup = onepanel/output/backup_person/
 eval=coco
